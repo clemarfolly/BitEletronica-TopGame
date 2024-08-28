@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TopGame_BitEletronica")(type "KiCad")(uri "${KIPRJMOD}/TopGame_BitEletronica.kicad_sym")(options "")(descr ""))
+  (lib (name "TopGame_BitEletronica-rescue")(type "KiCad")(uri "${KIPRJMOD}/TopGame_BitEletronica-rescue.kicad_sym")(options "")(descr ""))
+)
