@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bc66dae8-198a-4de7-946c-c578520ea7cf">
 </p>
-A Bit Eletrônica, fundada no Rio de Janeiro por Guilherme Ferramenta e Ricardo Achcar, criou o Top Game, o primeiro console de videogame brasileiro, lançado em dezembro de 1982. O console tinha um design diferenciado e era compatível com o sistema de TV PAL-M do Brasil. No entanto, ele utilizava um padrão próprio de cartuchos, devido ao receio de represálias da Atari. Apesar de boa aceitação inicial, a falta de capital e de publicidade, além da chegada de concorrentes maiores como a Philips e a Polyvox, levaram ao fim da Bit Eletrônica após a fabricação de cinco mil unidades. O Top Game tornou-se uma raridade entre colecionadores. Em 1984, a empresa lançou um adaptador para cartuchos do Atari 2600, mas isso não foi suficiente para salvar o negócio.
+A Bit Eletrônica, fundada no Rio de Janeiro por Guilherme Ferramenta, criou o Top Game, o primeiro console de videogame brasileiro, lançado em dezembro de 1982. O console tinha um design diferenciado e era compatível com o sistema de TV PAL-M do Brasil. No entanto, ele utilizava um padrão próprio de cartuchos, devido ao receio de represálias da Atari. Apesar de boa aceitação inicial, a falta de capital e de publicidade, além da chegada de concorrentes maiores como a Philips e a Polyvox, levaram ao fim da Bit Eletrônica após a fabricação de cinco mil unidades. O Top Game tornou-se uma raridade entre colecionadores. Em 1984, a empresa lançou um adaptador para cartuchos do Atari 2600, mas isso não foi suficiente para salvar o negócio.
 
 ## Sobre essa reprodução
 
