@@ -47,7 +47,3 @@ Alexandre Souza
 
 http://www.tabalabs.com.br/esquemateca/$ESBREL/$pre-tratados/Top%20Game%20-%20Bit%20Eletronica.jpg
 
-
-#### Caso queira contribuir para que outras reproduções como esta sejam feitas, considere fazer uma doação.
-
-Chave pix: clemarjr@gmail.com
